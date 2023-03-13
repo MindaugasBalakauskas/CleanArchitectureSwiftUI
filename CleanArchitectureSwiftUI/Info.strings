@@ -1,0 +1,14 @@
+/* 
+  Info.strings
+  CleanArchitectureSwiftUI
+
+  Created by Mindaugas Balakauskas on 07/02/2023.
+  
+*/
+//About:
+//1. This project is about CLEAN Achitecture pattern - adhere to SOLID principles
+//2. Core data - Native to Apple
+//3. Realm data base - third party framework
+//4. Firebase crashalytics and analytics - third party framework
+
+
