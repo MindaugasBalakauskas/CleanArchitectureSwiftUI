@@ -9,3 +9,12 @@ Use of CoreData as persistence container
 Use of third party dependecy Realm as persistence container
 Use of Google Firebase Analytics and Crashalytics
 Use of dependency injection and inversion to ease the XCTest implemenmtation for the future unit tests.
+
+## Requirements
+
+- Xcode 13.6+
+- Swift 5.2+
+
+## Author
+
+Mindaugas Balakauskas 
